@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian Santos.
-- 👀 With a focus in AI/ML and Embedded System Development.
+- 👀 Focused in AI/ML and Embedded System Development.
 - 🌱 I’m currently learning Github pages and web development.
 
 <!---
